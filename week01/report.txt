@@ -1,0 +1,1 @@
+Di week01, saya belajar bagaimana push dan pull git, CLI dan scripting
