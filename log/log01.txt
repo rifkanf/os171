@@ -1,0 +1,15 @@
+w01-170213-22-LR-About: Free Software, free society and software licenses, From: https://www.youtube.com/watch?v=Ag1AKIl_2GM, https://www.youtube.com/watch?v=BbuavSwbZIs
+w01-170213-22-LR-About: Copyrights, Trademarks, Patents & Trade Secrets: Protecting Your Idea - How To Start A Business, From: https://www.youtube.com/watch?v=PAVbXGXelsY
+w01-170213-23-LR-About: HAKI and Scripting, From: BAHAN_AJAR_LAMA
+w01-170214-10-PS-About: GIT, CLI and Scripting
+w01-170214-10-PS-About: GIT, CLI and Scripting
+w01-170214-11-DS-Discuss GIT, CLI and Scripting
+w01-170214-11-DS-Discuss GIT, CLI and Scripting 
+w01-170214-13-LR-About: Free software and Open Source, From: Lecturer
+w01-170214-13-LR-About: Copyrights, Trademark, Patents, From: Lecturer
+w01-170214-14-LR-About: Introduction to Scripting, From: Lecturer
+w01-170214-14-LR-About: Watching demo from lecturer
+w01-170216-13-LR-About: More Scripting, From: Lecturer
+w01-170216-13-LR-Watching demo from lecturer
+w01-170216-14-LR-About: sed, awk, regex, From: Lecturer
+w01-170216-14-LR-About: sed, awk, regex, From: Lecturer
