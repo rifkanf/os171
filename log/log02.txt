@@ -1,4 +1,8 @@
 w02-170218-20-PS-Lab Session Week02: Intro to C
 w02-170218-21-PS-Lab Session Week02: Privacy Matters, Encryption and Digital Signature using GnuPG
 w02-170219-14-PS-Lab Session Week02: Privacy Matters, Encryption and Digital Signature using GnuPG
-
+w02-170221-12-DS-About: Encryption, Privacy Matters and C
+w02-170221-13-LR-About: Protection From: Lecturer
+w02-170221-13-LR-About: Protection From: Lecturer
+w02-170221-14-LR-About: Security From: Lecturer
+w02-170221-14-LR-Watching demo from lecturer
