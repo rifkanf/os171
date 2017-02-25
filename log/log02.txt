@@ -6,3 +6,8 @@ w02-170221-13-LR-About: Protection From: Lecturer
 w02-170221-13-LR-About: Protection From: Lecturer
 w02-170221-14-LR-About: Security From: Lecturer
 w02-170221-14-LR-Watching demo from lecturer
+w02-170223-11-DS-About: Encryption, Privacy Matters and C
+w02-170223-13-LR=About: Intro to C, from: Lecturer
+w02-170223-13-LR-Watching demo from lecturer
+w02-170223-14-LR-About: Intro to C, from: Lecturer
+w02-170223-14-LR-Watching demo from lecturer
