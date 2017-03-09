@@ -1,15 +1,17 @@
-w04-170305-23-PS-Lab Session: Week04 Pointer
-w04-170305-23-PS-Lab Session: Week04 Pointer
-w04-170307-13-LR-About: Pointer from Lecturer
-w04-170307-13-LR-About: Pointer from Lecturer
-w04-170307-14-LR-Watching demo from lecturer
-w04-170307-14-LR-Watching demo from lecturer
-w04-170309-11-DS-About Pointer
-w04-170309-11-PS-Lab Session: Week04 Pointer
-w04-170309-12-DS-About open I/O Process
-w04-170309-13-LR-About: Open and Close I/O Process
-w04-170309-13-LR-About: Open and Close I/O Process
+w04-170305-23-PS-Lab Session: Week04 Global Variable, Local Variable, Pointer
+w04-170305-23-PS-Lab Session: Week04 Global Variable, Local Variable, Pointer
+w04-170307-13-LR-About: Address Mapping and Addressing from Lecturer
+w04-170307-13-LR-About: Global Variable, Local Variable, Pointer from Lecturer
+w04-170307-14-LR-Watching demo from lecturer: Addressing and Address Mapping
+w04-170307-14-LR-Watching demo from lecturer: Global Variable, Local Variable, Pointer
+w04-170309-11-DS-About Global Variable, Local Variable, Pointer
+w04-170309-11-PS-Lab Session: Week04 Global Variable, Local Variable, Pointer
+w04-170309-12-DS-About Open I/O Process
+w04-170309-13-LR-About: File Descriptors, Open and Close I/O Process
+w04-170309-13-LR-About: File Descriptors, Open and Close I/O Process
 w04-170309-14-LR-Watching demo from lecturer
 w04-170309-14-LR-Watching demo from lecturer
+w04-170309-16-PS-Trying demo of week04
+w04-170309-16-PS-Trying demo of week04
 w04-170310-00-PS-Lab Session: Week04 Open and Close I/O Process
 w04-170310-00-PS-Lab Session: Week04 Open and Close I/O Process
