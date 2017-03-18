@@ -1,0 +1,8 @@
+w04-170314-13-LR-About: Memory Allocations, top Command From: Lecturer
+w04-170314-13-LR-Watching demo about: memory allocations and top command From: Lecturer
+w04-170314-14-LR-About: Fragmentation From: Lecturer
+w04-170315-14-LR-About: Fragmentation From: Lecturer
+w04-170316-13-PS-Lab Session Week05
+w04-170316-13-PS-Lab Session Week05
+w04-170318-11-LR-About: Malloc function, from: http://www.cplusplus.com/reference/cstdlib/malloc/ and System function from: https://www.tutorialspoint.com/c_standard_library/c_function_system.htm
+w04-170318-11-PS-Lab Session Week05
