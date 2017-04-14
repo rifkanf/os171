@@ -1,0 +1,8 @@
+w06-170411-10-LR-About: fork(), from: demo code
+w06-170411-11-LR-About: fork(), from: demo code
+w06-170411-13-DS-Exercise about how fork works, from: http://rms46.vlsm.org/2/201.pdf
+w06-170414-23-LR-About: fork(), PID, PPID, from: https://www.linuxsecrets.com/entry/6managing-linux-systems/2015/12/28/1689-linux-pid-ppid-and-tgid-explained
+w06-170414-23-LR-About: fflush(), from: http://man7.org/linux/man-pages/man3/fflush.3.html
+w06-170415-00-PS-Lab Session: getpid(), getppid(), wait, sleep, fork()
+w06-170415-00-PS-Lab Session: fork(), fflush()
+w06-170415-00-PS-Lab Session: frok(), fflush()
