@@ -1,0 +1,8 @@
+w09-170427-13-LR-About: File System, from: Lecturer
+w09-170427-13-LR-About: File Systen, from: Lecturer
+w09-170427-14-LR-About: Persistant Storage, from: Lecturer
+w09-170427-14-LR-Exercise in class
+w09-170502-13-LR-About: RAID
+w09-170502-13-LR-About: RAID
+w09-170502-14-LR-Exercise RAID in class
+w09-170502-14-LR-Exercise RAID in class
