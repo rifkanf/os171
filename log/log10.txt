@@ -1,0 +1,12 @@
+w10-170504-13-DS-About: Virtualization
+w10-170504-13-LR-About: Virtualization, from: Lecturer
+w10-170504-14-DS-About: Cloud Computing (IaaS, SaaS, PaaS)
+w10-170504-14-LR-About: Cloud Computing (IaaS, SaaS, PaaS), from: Lecturer
+w10-170511-00-LR-About: Intellectual Property, from: https://youtu.be/85YRhJYynpE
+w10-170511-00-PS-Lab Session Week09
+w10-170511-01-PS-Lab Session Week09
+w10-170511-01-PS-Lab Session Week09
+w10-170511-02-LR-About: Cloud Infrastructure (SaaS), from: https://youtu.be/KuDlUwe02sI
+w10-170511-02-PS-Lab Session Week10
+w10-170511-03-PS-Lab Session Week10
+w10-170511-03-PS-Lab Session Week10
